@@ -8,7 +8,5 @@ Cleaned_Car.csv
 GBModel.pkl
 LinearRegressionModel.pkl
 notebook002f99c08d.ipynb
-dataset.csv
+
 GBModel_v2.pkl
-*.pkl
-*.csv
